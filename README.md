@@ -13,4 +13,4 @@
 - Optimized firmware
 
 [V1.0 - WELL Panel](https://github.com/Chauvet-Pro/WELLPANEL/blob/22c898f27ee00731f8e041f94938eb748f2679d6/firmware/V1.0.zip)
-- Released initial version
+- Released initial software version
